@@ -1,0 +1,6 @@
+@code_three_HostAddress = http://localhost:5103
+
+GET {{code_three_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
